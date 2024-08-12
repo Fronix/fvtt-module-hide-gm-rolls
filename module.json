@@ -10,12 +10,9 @@
     }
   ],
   "version": "0.15.3",
-  "minimumCoreVersion": "0.6.5",
-  "compatibleCoreVersion": "11",
   "compatibility": {
-    "minimum": "0.6.5",
-    "verified": "11",
-    "maximum": 11
+    "minimum": "12",
+    "verified": "12"
   },
   "esmodules": [
     "modules/hide_gm_rolls.js"
@@ -69,9 +66,9 @@
   },
   "license": "LICENSE",
   "readme": "README.md",
-  "url": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls",
+  "url": "https://github.com/Fronix/fvtt-module-hide-gm-rolls",
   "bugs": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/issues",
   "changelog": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/blob/master/CHANGELOG.md",
-  "manifest": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/raw/master/module.json",
+  "manifest": "https://github.com/Fronix/fvtt-module-hide-gm-rolls/blob/v12-temp/module.json",
   "download": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/releases/download/v0.15.3/hide-gm-rolls-v0.15.3.zip"
 }
