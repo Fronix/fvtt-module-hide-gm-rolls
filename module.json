@@ -10,11 +10,9 @@
     }
   ],
   "version": "0.15.3",
-  "minimumCoreVersion": "0.6.5",
-  "compatibleCoreVersion": "11",
   "compatibility": {
-    "minimum": "0.6.5",
-    "verified": "12.328"
+    "minimum": "12",
+    "verified": "12"
   },
   "esmodules": [
     "modules/hide_gm_rolls.js"
