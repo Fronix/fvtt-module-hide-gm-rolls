@@ -69,6 +69,6 @@
   "url": "https://github.com/Fronix/fvtt-module-hide-gm-rolls",
   "bugs": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/issues",
   "changelog": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/blob/master/CHANGELOG.md",
-  "manifest": "https://github.com/Fronix/fvtt-module-hide-gm-rolls/blob/v12-temp/module.json",
+  "manifest": "https://github.com/Fronix/fvtt-module-hide-gm-rolls/blob/master/module.json",
   "download": "https://github.com/Fronix/fvtt-module-hide-gm-rolls/releases/download/v0.1.0/hide-gm-rolls-v0.1.0.zip"
 }
