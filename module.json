@@ -9,7 +9,7 @@
       "url": "https://github.com/sPOiDar/"
     }
   ],
-  "version": "0.15.3",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -70,5 +70,5 @@
   "bugs": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/issues",
   "changelog": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/blob/master/CHANGELOG.md",
   "manifest": "https://github.com/Fronix/fvtt-module-hide-gm-rolls/blob/v12-temp/module.json",
-  "download": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/releases/download/v0.15.3/hide-gm-rolls-v0.15.3.zip"
+  "download": "https://github.com/Fronix/fvtt-module-hide-gm-rolls/releases/download/v0.1.0/hide-gm-rolls-v0.1.0.zip"
 }
