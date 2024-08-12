@@ -1,3 +1,8 @@
+## [0.15.4](https://github.com/Fronix/fvtt-module-hide-gm-rolls/compare/v0.15.3...v0.15.4) (2024-08-12)
+
+
+
+
 ### Reverts
 
 * Revert "fix(dice): Set default for Dice So Nice public roll hiding to false" ([945ecb2](https://github.com/Fronix/fvtt-module-hide-gm-rolls/commit/945ecb2))
